@@ -15,13 +15,13 @@ let idEdicao = null;
 // 🔥 CONFIGURAR FIREBASE AQUI DURANTE A AULA
 // -------------------------------------------------------------------
 const firebaseConfig = {
-    apiKey: "AIzaSyBN6Z0r-cux21OolzzIdd25IqeAw1de49Q",
-    authDomain: "sepex-dev.firebaseapp.com",
-    projectId: "sepex-dev",
-    storageBucket: "sepex-dev.firebasestorage.app",
-    messagingSenderId: "429337967204",
-    appId: "1:429337967204:web:b75b14f580790dfa6a7d71",
-    measurementId: "G-QZGPPPEW9M"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 // Inicializar Firebase
